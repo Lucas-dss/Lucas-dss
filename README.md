@@ -1,9 +1,3 @@
-<style>
-  p a img:hover {
-    filter: opacity(50%);
-  }
-</style>
-
 <h1 align="center">Eu sou Lucas, um prazer te ver 👋</h1>
 <h3 align="center" color="#3d444d">Desenvolvedor de FrontEnd do Brasil</h3>
 
