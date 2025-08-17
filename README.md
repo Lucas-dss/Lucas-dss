@@ -1,5 +1,5 @@
 <h1 align="center">Eu sou Lucas, um prazer te ver 👋</h1>
-<h3 align="center" color="#3d444d">Desenvolvedor de FrontEnd do Brasil</h3>
+<h3 align="center">Desenvolvedor de FrontEnd</h3>
 
 <img align="center" src="https://sm.ign.com/ign_br/screenshot/default/deadpool-bridge-drawing_45vc.gif" alt="deadpool.gif" width="100%"/>
 
