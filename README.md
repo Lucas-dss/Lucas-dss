@@ -4,7 +4,7 @@
 
 <p align="center" display="flex" justify>
 <a href="https://linkedin.com/in/lucas-da-silva-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-da-silva-sousa" height="30" width="40" /></a>
-<a href="[https://instagram.com/lvcas-dss](https://www.instagram.com/lvcas.dss/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvcas-dss" height="30" width="40" /></a>
+<a href="https://instagram.com/lvcas-dss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvcas-dss" height="30" width="40" /></a>
 <a href="https://discord.gg/if33ld15c0ur4g3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="if33ld15c0ur4g3d" height="30" width="40" /></a>
 </p>
 
