@@ -5,7 +5,7 @@
 <p align="center" display="flex" justify>
 <a href="https://linkedin.com/in/lucas-da-silva-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-da-silva-sousa" height="30" width="40" /></a>
 <a href="https://instagram.com/lvcas.dss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvcas-dss" height="30" width="40" /></a>
-<a href="https://discord.gg/if33ld15c0ur4g3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="if33ld15c0ur4g3d" height="30" width="40" /></a>
+<a href="https://discord.com/users/503641772560351243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="if33ld15c0ur4g3d" height="30" width="40" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Londrina+Outline&size=40&letterSpacing=-1px&pause=10000&color=d8dde3&center=true&vCenter=true&width=1000&lines=Linguagens+e+ferramentas:" alt="Typing SVG" />
